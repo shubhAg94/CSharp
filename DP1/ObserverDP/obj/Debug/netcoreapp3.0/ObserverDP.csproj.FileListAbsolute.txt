@@ -1,0 +1,13 @@
+D:\Backup\Data Folder\C#\DP1\ObserverDP\bin\Debug\netcoreapp3.0\ObserverDP.exe
+D:\Backup\Data Folder\C#\DP1\ObserverDP\bin\Debug\netcoreapp3.0\ObserverDP.deps.json
+D:\Backup\Data Folder\C#\DP1\ObserverDP\bin\Debug\netcoreapp3.0\ObserverDP.runtimeconfig.json
+D:\Backup\Data Folder\C#\DP1\ObserverDP\bin\Debug\netcoreapp3.0\ObserverDP.runtimeconfig.dev.json
+D:\Backup\Data Folder\C#\DP1\ObserverDP\bin\Debug\netcoreapp3.0\ObserverDP.dll
+D:\Backup\Data Folder\C#\DP1\ObserverDP\bin\Debug\netcoreapp3.0\ObserverDP.pdb
+D:\Backup\Data Folder\C#\DP1\ObserverDP\obj\Debug\netcoreapp3.0\ObserverDP.csprojAssemblyReference.cache
+D:\Backup\Data Folder\C#\DP1\ObserverDP\obj\Debug\netcoreapp3.0\ObserverDP.AssemblyInfoInputs.cache
+D:\Backup\Data Folder\C#\DP1\ObserverDP\obj\Debug\netcoreapp3.0\ObserverDP.AssemblyInfo.cs
+D:\Backup\Data Folder\C#\DP1\ObserverDP\obj\Debug\netcoreapp3.0\ObserverDP.csproj.CoreCompileInputs.cache
+D:\Backup\Data Folder\C#\DP1\ObserverDP\obj\Debug\netcoreapp3.0\ObserverDP.dll
+D:\Backup\Data Folder\C#\DP1\ObserverDP\obj\Debug\netcoreapp3.0\ObserverDP.pdb
+D:\Backup\Data Folder\C#\DP1\ObserverDP\obj\Debug\netcoreapp3.0\ObserverDP.genruntimeconfig.cache

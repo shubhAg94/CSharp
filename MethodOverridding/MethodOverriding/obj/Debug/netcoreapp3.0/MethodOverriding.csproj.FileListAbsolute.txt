@@ -1,0 +1,11 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\bin\Debug\netcoreapp3.0\MethodOverriding.exe
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\bin\Debug\netcoreapp3.0\MethodOverriding.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\bin\Debug\netcoreapp3.0\MethodOverriding.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\bin\Debug\netcoreapp3.0\MethodOverriding.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\bin\Debug\netcoreapp3.0\MethodOverriding.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\bin\Debug\netcoreapp3.0\MethodOverriding.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\obj\Debug\netcoreapp3.0\MethodOverriding.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\obj\Debug\netcoreapp3.0\MethodOverriding.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\obj\Debug\netcoreapp3.0\MethodOverriding.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\obj\Debug\netcoreapp3.0\MethodOverriding.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverridding\MethodOverriding\obj\Debug\netcoreapp3.0\MethodOverriding.pdb

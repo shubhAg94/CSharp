@@ -1,0 +1,12 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\bin\Debug\netcoreapp3.0\AutomaticPromotion.exe
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\bin\Debug\netcoreapp3.0\AutomaticPromotion.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\bin\Debug\netcoreapp3.0\AutomaticPromotion.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\bin\Debug\netcoreapp3.0\AutomaticPromotion.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\bin\Debug\netcoreapp3.0\AutomaticPromotion.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\bin\Debug\netcoreapp3.0\AutomaticPromotion.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\obj\Debug\netcoreapp3.0\AutomaticPromotion.csprojAssemblyReference.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\obj\Debug\netcoreapp3.0\AutomaticPromotion.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\obj\Debug\netcoreapp3.0\AutomaticPromotion.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\obj\Debug\netcoreapp3.0\AutomaticPromotion.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\obj\Debug\netcoreapp3.0\AutomaticPromotion.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MethodOverloading\AutomaticPromotion\obj\Debug\netcoreapp3.0\AutomaticPromotion.pdb

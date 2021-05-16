@@ -1,0 +1,7 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\DisposePatternSolution\DisposePattern\bin\Debug\DisposePattern.exe.config
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\DisposePatternSolution\DisposePattern\bin\Debug\DisposePattern.exe
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\DisposePatternSolution\DisposePattern\bin\Debug\DisposePattern.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\DisposePatternSolution\DisposePattern\obj\Debug\DisposePattern.csprojAssemblyReference.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\DisposePatternSolution\DisposePattern\obj\Debug\DisposePattern.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\DisposePatternSolution\DisposePattern\obj\Debug\DisposePattern.exe
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\DisposePatternSolution\DisposePattern\obj\Debug\DisposePattern.pdb

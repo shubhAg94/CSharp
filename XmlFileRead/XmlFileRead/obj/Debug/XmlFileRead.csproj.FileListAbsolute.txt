@@ -1,0 +1,7 @@
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\XmlFileRead\XmlFileRead\bin\Debug\XmlFileRead.exe.config
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\XmlFileRead\XmlFileRead\bin\Debug\XmlFileRead.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\XmlFileRead\XmlFileRead\bin\Debug\XmlFileRead.pdb
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\XmlFileRead\XmlFileRead\obj\Debug\XmlFileRead.csprojAssemblyReference.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\XmlFileRead\XmlFileRead\obj\Debug\XmlFileRead.csproj.CoreCompileInputs.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\XmlFileRead\XmlFileRead\obj\Debug\XmlFileRead.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\XmlFileRead\XmlFileRead\obj\Debug\XmlFileRead.pdb

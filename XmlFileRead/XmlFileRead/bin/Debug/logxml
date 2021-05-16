@@ -1,0 +1,335 @@
+<auditLog>
+  <IHE-Syslog-Audit-Message time="2020-08-05T16:42:35.4850+05:30" StationName="INBLRH10226WSCL-webapi-eac2017e-91e5-479c-a12a-b8b19ddc01aa" StationIpAddress="172.16.136.119">
+  <User-Authenticated>
+    <Application>webapi</Application>
+    <user-name>testuser</user-name>
+    <Department>IntegrationTestDept1</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T16:51:54.3650+05:30" StationName="INBLRH10226WSCL" StationIpAddress="172.16.136.143">
+  <User-Authentication>
+    <Application>sysadmin</Application>
+    <user-name>administra</user-name>
+    <Department>ULTRASOUND</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+  </User-Authentication>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T16:55:28.2400+05:30" StationName="INBLRH10226WSCL-webapi-13922318-85d9-416b-b117-87b2f13fa4b8" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application>LoginForAuthToken</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor>172.24.20.27</Requestor>
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T16:55:32.1780+05:30" StationName="INBLRH10226WSCL-webapi-91ac5a57-22bf-4737-9147-3c43147e90fd" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application>webapi</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor>172.24.20.27</Requestor>
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T16:56:09.3500+05:30" StationName="INBLRH10226WSCL-webapi-91ac5a57-22bf-4737-9147-3c43147e90fd" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <Application>webapi</Application>
+    <user-name>testuser</user-name>
+    <Department>IntegrationTestDept1</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T16:56:22.3560+05:30" StationName="INBLRH10226WSCL-webapi-1fde3ce7-def7-45a8-97dc-82787ddf92ec" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application>webapi</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor>172.24.20.27</Requestor>
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T16:56:23.5900+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Move</Object-Action>
+    <Study-uid>1.3.51.0.1.1.172.16.20.234.17640833.2646056</Study-uid>
+    <Servername>INBLRH10226WSCL</Servername>
+    <new-department>IntegrationTestDept1</new-department>
+    <station-name>INBLRH10226WSCL-webapi-1fde3ce7-def7-45a8-97dc-82787ddf92ec</station-name>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T16:56:23.7640+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Access</Object-Action>
+    <Study-uid>1.3.51.0.1.1.172.16.20.234.17640833.2646056</Study-uid>
+    <Patient>
+      <Patient-name>CARICARI, JOSEPH</Patient-name>
+      <Patient-ID>6713193</Patient-ID>
+    </Patient>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+    <Requestor>webapi</Requestor>
+    <station-name>INBLRH10226WSCL-webapi-1fde3ce7-def7-45a8-97dc-82787ddf92ec</station-name>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:11:56.2350+05:30" StationName="INBLRH10226WSCL-webapi-52f9a6e8-1950-484a-9f51-90ef17ca9b4c" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application>webapi</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor>172.24.20.27</Requestor>
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:11:57.3290+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Move</Object-Action>
+    <Study-uid>1.3.51.0.1.1.172.16.20.234.17640833.2646056</Study-uid>
+    <Servername>INBLRH10226WSCL</Servername>
+    <new-department>IntegrationTestDept1</new-department>
+    <station-name>INBLRH10226WSCL-webapi-52f9a6e8-1950-484a-9f51-90ef17ca9b4c</station-name>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:11:57.7660+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Access</Object-Action>
+    <Study-uid>1.3.51.0.1.1.172.16.20.234.17640833.2646056</Study-uid>
+    <Patient>
+      <Patient-name>CARICARI, JOSEPH</Patient-name>
+      <Patient-ID>6713193</Patient-ID>
+    </Patient>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+    <Requestor>webapi</Requestor>
+    <station-name>INBLRH10226WSCL-webapi-52f9a6e8-1950-484a-9f51-90ef17ca9b4c</station-name>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:12:10.6880+05:30" StationName="INBLRSHCPR08992" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application>sysadminservicesprovider</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:12:30.9090+05:30" StationName="INBLRSHCPR08992" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <Application>sysadminservicesprovider</Application>
+    <user-name>testuser</user-name>
+    <Department>IntegrationTestDept1</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:12:31.3780+05:30" StationName="INBLRSHCPR08992" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <user-name>securityadmin</user-name>
+    <Action>Login</Action>
+    <Department>TestWebAPIDept</Department>
+    <Application>sysadminservicesprovider</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:12:43.4710+05:30" StationName="INBLRSHCPR08992" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <Application>sysadminservicesprovider</Application>
+    <user-name>securityadmin</user-name>
+    <Department>TestWebAPIDept</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:12:55.0660+05:30" StationName="INBLRSHCPR08992">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application />
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:12:58.1440+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Move</Object-Action>
+    <Study-uid>1.3.51.0.1.1.172.16.20.234.17640833.2646056</Study-uid>
+    <Servername>INBLRH10226WSCL</Servername>
+    <new-department>TestWebAPIDept</new-department>
+    <station-name>INBLRSHCPR08992</station-name>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:13:00.3940+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Access</Object-Action>
+    <Study-uid>1.3.12.2.1107.5.4.7.4038.30000008012211504518700000042</Study-uid>
+    <Patient>
+      <Patient-name>CARICARI, JOSEPH</Patient-name>
+      <Patient-ID>6713193</Patient-ID>
+    </Patient>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+    <Requestor>webapi</Requestor>
+    <station-name>INBLRH10226WSCL-webapi-52f9a6e8-1950-484a-9f51-90ef17ca9b4c</station-name>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:14:28.2420+05:30" StationName="INBLRH10226WSCL" StationIpAddress="172.16.136.143">
+  <User-Authentication>
+    <Application>sysadmin</Application>
+    <user-name>webapiuser</user-name>
+    <Department>TestWebAPIDept</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Login</Action>
+    <Result>Success</Result>
+  </User-Authentication>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:15:42.1670+05:30" StationName="INBLRH10226WSCL-webapi-13922318-85d9-416b-b117-87b2f13fa4b8" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <Application>LoginForAuthToken</Application>
+    <user-name>testuser</user-name>
+    <Department>IntegrationTestDept1</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:33:02.6010+05:30" StationName="INBLRSHCPR08992">
+  <User-Authenticated>
+    <Application />
+    <user-name>testuser</user-name>
+    <Department>IntegrationTestDept1</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:33:02.6010+05:30" StationName="INBLRH10226WSCL-webapi-52f9a6e8-1950-484a-9f51-90ef17ca9b4c" StationIpAddress="172.24.20.27">
+  <User-Authenticated>
+    <Application>webapi</Application>
+    <user-name>testuser</user-name>
+    <Department>IntegrationTestDept1</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:44:54.6990+05:30" StationName="INBLRH10226WSCL" StationIpAddress="172.16.136.143">
+  <User-Authentication>
+    <Application>sysadmin</Application>
+    <user-name>webapiuser</user-name>
+    <Department>TestWebAPIDept</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout</Action>
+  </User-Authentication>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:46:12.5900+05:30" StationName="INBLRH10226WSCL-webapi-829eb2cc-0286-449f-9872-3e6018109bd5" StationIpAddress="172.24.20.32">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application>LoginForAuthToken</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor>172.24.20.32</Requestor>
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:46:19.9180+05:30" StationName="INBLRH10226WSCL-webapi-c6ef9208-c2ca-426b-be7e-78c8630faa13" StationIpAddress="172.24.20.32">
+  <User-Authenticated>
+    <user-name>testuser</user-name>
+    <Action>Login</Action>
+    <Department>IntegrationTestDept1</Department>
+    <Application>webapi</Application>
+    <Result>Success</Result>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Requestor>172.24.20.32</Requestor>
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:46:20.7150+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Access</Object-Action>
+    <Study-uid>1.3.12.2.1107.5.4.7.4038.30000008012211504518700000042</Study-uid>
+    <Patient>
+      <Patient-name>CARICARI, JOSEPH</Patient-name>
+      <Patient-ID>6713193</Patient-ID>
+    </Patient>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+    <Requestor>webapi</Requestor>
+    <station-name>INBLRH10226WSCL-webapi-c6ef9208-c2ca-426b-be7e-78c8630faa13</station-name>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:47:42.0560+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Access</Object-Action>
+    <Study-uid>1.3.12.2.1107.5.4.7.4038.30000008012211504518700000042</Study-uid>
+    <Patient>
+      <Patient-name>CARICARI, JOSEPH</Patient-name>
+      <Patient-ID>6713193</Patient-ID>
+    </Patient>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+    <Requestor>webapi</Requestor>
+    <station-name>INBLRH10226WSCL-webapi-c6ef9208-c2ca-426b-be7e-78c8630faa13</station-name>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:49:39.0220+05:30" StationName="INBLRH10226WSCL">
+  <Study-object>
+    <Object-Action>Access</Object-Action>
+    <Study-uid>1.3.12.2.1107.5.4.7.4038.30000008012211504518700000042</Study-uid>
+    <Patient>
+      <Patient-name>CARICARI, JOSEPH</Patient-name>
+      <Patient-ID>6713193</Patient-ID>
+    </Patient>
+    <user>
+      <user-name>testuser</user-name>
+    </user>
+    <Requestor>webapi</Requestor>
+    <station-name>INBLRH10226WSCL-webapi-c6ef9208-c2ca-426b-be7e-78c8630faa13</station-name>
+  </Study-object>
+</IHE-Syslog-Audit-Message>
+<IHE-Syslog-Audit-Message time="2020-08-05T17:54:11.3360+05:30" StationName="INBLRH10226WSCL-webapi-c6ef9208-c2ca-426b-be7e-78c8630faa13" StationIpAddress="172.24.20.32">
+  <User-Authenticated>
+    <Application>webapi</Application>
+    <user-name>testuser</user-name>
+    <Department>IntegrationTestDept1</Department>
+    <Servername>INBLRH10226WSCL</Servername>
+    <Action>Logout Shubham</Action>
+    <Requestor />
+  </User-Authenticated>
+</IHE-Syslog-Audit-Message>
+</auditLog>

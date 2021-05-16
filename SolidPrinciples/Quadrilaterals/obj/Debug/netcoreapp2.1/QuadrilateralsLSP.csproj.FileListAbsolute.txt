@@ -1,0 +1,12 @@
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\bin\Debug\netcoreapp2.1\QuadrilateralsLSP.deps.json
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\bin\Debug\netcoreapp2.1\QuadrilateralsLSP.runtimeconfig.json
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\bin\Debug\netcoreapp2.1\QuadrilateralsLSP.runtimeconfig.dev.json
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\bin\Debug\netcoreapp2.1\QuadrilateralsLSP.dll
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\bin\Debug\netcoreapp2.1\QuadrilateralsLSP.pdb
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\obj\Debug\netcoreapp2.1\QuadrilateralsLSP.csprojAssemblyReference.cache
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\obj\Debug\netcoreapp2.1\QuadrilateralsLSP.AssemblyInfoInputs.cache
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\obj\Debug\netcoreapp2.1\QuadrilateralsLSP.AssemblyInfo.cs
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\obj\Debug\netcoreapp2.1\QuadrilateralsLSP.csproj.CoreCompileInputs.cache
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\obj\Debug\netcoreapp2.1\QuadrilateralsLSP.dll
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\obj\Debug\netcoreapp2.1\QuadrilateralsLSP.pdb
+D:\Backup\Data Folder\C#\SolidPrinciples\Quadrilaterals\obj\Debug\netcoreapp2.1\QuadrilateralsLSP.genruntimeconfig.cache

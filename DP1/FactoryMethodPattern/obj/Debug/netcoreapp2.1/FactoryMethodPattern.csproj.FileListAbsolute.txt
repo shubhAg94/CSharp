@@ -1,0 +1,11 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.csprojAssemblyReference.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.pdb

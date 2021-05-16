@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UserData\\Z0040MVT\\Documents\\Visual Studio 2019\\Projects\\MethodOverloading\\var-args\\var-args.csproj": {}
+  },
+  "projects": {
+    "D:\\UserData\\Z0040MVT\\Documents\\Visual Studio 2019\\Projects\\MethodOverloading\\var-args\\var-args.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UserData\\Z0040MVT\\Documents\\Visual Studio 2019\\Projects\\MethodOverloading\\var-args\\var-args.csproj",
+        "projectName": "var-args",
+        "projectPath": "D:\\UserData\\Z0040MVT\\Documents\\Visual Studio 2019\\Projects\\MethodOverloading\\var-args\\var-args.csproj",
+        "packagesPath": "C:\\Users\\Z0040MVT\\.nuget\\packages\\",
+        "outputPath": "D:\\UserData\\Z0040MVT\\Documents\\Visual Studio 2019\\Projects\\MethodOverloading\\var-args\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z0040MVT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          }
+        }
+      }
+    }
+  }
+}

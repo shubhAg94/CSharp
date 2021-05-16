@@ -1,0 +1,13 @@
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\bin\Debug\netcoreapp3.1\EmployeeWithoutLSP.exe
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\bin\Debug\netcoreapp3.1\EmployeeWithoutLSP.deps.json
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\bin\Debug\netcoreapp3.1\EmployeeWithoutLSP.runtimeconfig.json
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\bin\Debug\netcoreapp3.1\EmployeeWithoutLSP.runtimeconfig.dev.json
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\bin\Debug\netcoreapp3.1\EmployeeWithoutLSP.dll
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\bin\Debug\netcoreapp3.1\EmployeeWithoutLSP.pdb
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\obj\Debug\netcoreapp3.1\EmployeeWithoutLSP.csprojAssemblyReference.cache
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\obj\Debug\netcoreapp3.1\EmployeeWithoutLSP.AssemblyInfoInputs.cache
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\obj\Debug\netcoreapp3.1\EmployeeWithoutLSP.AssemblyInfo.cs
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\obj\Debug\netcoreapp3.1\EmployeeWithoutLSP.csproj.CoreCompileInputs.cache
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\obj\Debug\netcoreapp3.1\EmployeeWithoutLSP.dll
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\obj\Debug\netcoreapp3.1\EmployeeWithoutLSP.pdb
+D:\Backup\Data Folder\C#\SolidPrinciples\EmployeeWithoutLSP\obj\Debug\netcoreapp3.1\EmployeeWithoutLSP.genruntimeconfig.cache

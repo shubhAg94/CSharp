@@ -1,0 +1,28 @@
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csprojAssemblyReference.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csproj.CoreCompileInputs.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe.config
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.pdb
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.pdb
+D:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe.config
+D:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe
+D:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.pdb
+D:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csprojAssemblyReference.cache
+D:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csproj.CoreCompileInputs.cache
+D:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.exe
+D:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.pdb
+E:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe.config
+E:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe
+E:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.pdb
+E:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csprojAssemblyReference.cache
+E:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csproj.CoreCompileInputs.cache
+E:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.exe
+E:\Backup\Data Folder\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.pdb
+E:\CodeProjects\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe.config
+E:\CodeProjects\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.exe
+E:\CodeProjects\C#\ProgrammingQ\ProgrammingQ\bin\Debug\ProgrammingQ.pdb
+E:\CodeProjects\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csprojAssemblyReference.cache
+E:\CodeProjects\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.csproj.CoreCompileInputs.cache
+E:\CodeProjects\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.exe
+E:\CodeProjects\C#\ProgrammingQ\ProgrammingQ\obj\Debug\ProgrammingQ.pdb

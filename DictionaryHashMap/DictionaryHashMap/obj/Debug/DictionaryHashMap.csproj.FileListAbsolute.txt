@@ -1,0 +1,7 @@
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\DictionaryHashMap\DictionaryHashMap\bin\Debug\DictionaryHashMap.exe.config
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\DictionaryHashMap\DictionaryHashMap\bin\Debug\DictionaryHashMap.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\DictionaryHashMap\DictionaryHashMap\bin\Debug\DictionaryHashMap.pdb
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\DictionaryHashMap\DictionaryHashMap\obj\Debug\DictionaryHashMap.csprojAssemblyReference.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\DictionaryHashMap\DictionaryHashMap\obj\Debug\DictionaryHashMap.csproj.CoreCompileInputs.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\DictionaryHashMap\DictionaryHashMap\obj\Debug\DictionaryHashMap.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\DictionaryHashMap\DictionaryHashMap\obj\Debug\DictionaryHashMap.pdb

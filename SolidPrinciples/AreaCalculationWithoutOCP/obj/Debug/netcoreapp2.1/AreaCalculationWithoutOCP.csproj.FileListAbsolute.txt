@@ -1,0 +1,11 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\bin\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\bin\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\bin\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\bin\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\bin\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\obj\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.csprojAssemblyReference.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\obj\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\obj\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\obj\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\obj\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\AreaCalculationWithoutOCP\obj\Debug\netcoreapp2.1\AreaCalculationWithoutOCP.pdb

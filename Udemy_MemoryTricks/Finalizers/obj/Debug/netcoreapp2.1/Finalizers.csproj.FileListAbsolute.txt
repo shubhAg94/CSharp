@@ -1,0 +1,11 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\bin\Debug\netcoreapp2.1\Finalizers.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\bin\Debug\netcoreapp2.1\Finalizers.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\bin\Debug\netcoreapp2.1\Finalizers.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\bin\Debug\netcoreapp2.1\Finalizers.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\bin\Debug\netcoreapp2.1\Finalizers.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\obj\Debug\netcoreapp2.1\Finalizers.csprojAssemblyReference.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\obj\Debug\netcoreapp2.1\Finalizers.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\obj\Debug\netcoreapp2.1\Finalizers.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\obj\Debug\netcoreapp2.1\Finalizers.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\obj\Debug\netcoreapp2.1\Finalizers.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\Udemy_MemoryTricks\Finalizers\obj\Debug\netcoreapp2.1\Finalizers.pdb

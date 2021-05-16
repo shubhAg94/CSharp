@@ -1,0 +1,10 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\bin\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\bin\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\bin\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\bin\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\bin\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\obj\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\obj\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\obj\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\obj\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2017\Projects\SolidPrinciples\EmployeeBonusCalWithoutOCP\obj\Debug\netcoreapp2.1\EmployeeBonusCalWithoutOCP.pdb

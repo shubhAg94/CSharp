@@ -1,0 +1,7 @@
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ArrayRotation\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ArrayRotation\ArrayRotation\bin\Debug\ArrayRotation.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ArrayRotation\ArrayRotation\bin\Debug\ArrayRotation.pdb
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ArrayRotation\ArrayRotation\obj\Debug\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ArrayRotation\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ArrayRotation\ArrayRotation\obj\Debug\ArrayRotation.exe
+C:\Users\z0040mvt\Documents\Visual Studio 2017\Projects\ArrayRotation\ArrayRotation\obj\Debug\ArrayRotation.pdb

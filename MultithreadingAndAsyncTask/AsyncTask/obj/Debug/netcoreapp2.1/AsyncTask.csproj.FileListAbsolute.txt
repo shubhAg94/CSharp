@@ -1,0 +1,10 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\obj\Debug\netcoreapp2.1\AsyncTask.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\obj\Debug\netcoreapp2.1\AsyncTask.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\obj\Debug\netcoreapp2.1\AsyncTask.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\bin\Debug\netcoreapp2.1\AsyncTask.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\bin\Debug\netcoreapp2.1\AsyncTask.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\bin\Debug\netcoreapp2.1\AsyncTask.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\bin\Debug\netcoreapp2.1\AsyncTask.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\bin\Debug\netcoreapp2.1\AsyncTask.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\obj\Debug\netcoreapp2.1\AsyncTask.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\MultithreadingAndAsyncTask\AsyncTask\obj\Debug\netcoreapp2.1\AsyncTask.pdb

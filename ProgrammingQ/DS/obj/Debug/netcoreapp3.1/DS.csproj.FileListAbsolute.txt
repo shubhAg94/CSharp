@@ -1,0 +1,26 @@
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.exe
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.deps.json
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.runtimeconfig.json
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.runtimeconfig.dev.json
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.dll
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.pdb
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.AssemblyInfoInputs.cache
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.AssemblyInfo.cs
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.csproj.CoreCompileInputs.cache
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.dll
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.pdb
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.genruntimeconfig.cache
+E:\Backup\Data Folder\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.csprojAssemblyReference.cache
+E:\CodeProjects\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.exe
+E:\CodeProjects\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.deps.json
+E:\CodeProjects\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.runtimeconfig.json
+E:\CodeProjects\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.runtimeconfig.dev.json
+E:\CodeProjects\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.dll
+E:\CodeProjects\C#\ProgrammingQ\DS\bin\Debug\netcoreapp3.1\DS.pdb
+E:\CodeProjects\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.csprojAssemblyReference.cache
+E:\CodeProjects\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.AssemblyInfoInputs.cache
+E:\CodeProjects\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.AssemblyInfo.cs
+E:\CodeProjects\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.csproj.CoreCompileInputs.cache
+E:\CodeProjects\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.dll
+E:\CodeProjects\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.pdb
+E:\CodeProjects\C#\ProgrammingQ\DS\obj\Debug\netcoreapp3.1\DS.genruntimeconfig.cache

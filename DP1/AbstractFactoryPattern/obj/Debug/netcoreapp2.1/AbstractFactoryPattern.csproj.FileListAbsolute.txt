@@ -1,0 +1,11 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.deps.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.runtimeconfig.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.runtimeconfig.dev.json
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.pdb
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.csprojAssemblyReference.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.AssemblyInfo.cs
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.dll
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\DP\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.pdb

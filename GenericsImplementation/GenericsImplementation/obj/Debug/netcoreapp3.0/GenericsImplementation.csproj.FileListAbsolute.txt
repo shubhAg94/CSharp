@@ -1,0 +1,4 @@
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\GenericsImplementation\GenericsImplementation\obj\Debug\netcoreapp3.0\GenericsImplementation.csprojAssemblyReference.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\GenericsImplementation\GenericsImplementation\obj\Debug\netcoreapp3.0\GenericsImplementation.csproj.CoreCompileInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\GenericsImplementation\GenericsImplementation\obj\Debug\netcoreapp3.0\GenericsImplementation.AssemblyInfoInputs.cache
+D:\UserData\Z0040MVT\Documents\Visual Studio 2019\Projects\GenericsImplementation\GenericsImplementation\obj\Debug\netcoreapp3.0\GenericsImplementation.AssemblyInfo.cs
